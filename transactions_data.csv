@@ -1,0 +1,5 @@
+product_id,purchased_quantity,unit_product_price,transaction_id,customer_id,transaction_date
+1,1,2,3,4,2011-10-1 00:00:00
+2,3,45,67,3,2012-9-1 00:00:00
+3,3,45,67,4,2012-9-1 00:00:00
+4,5,6,6,4,2012-10-2 00:00:00
